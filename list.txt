@@ -3,3 +3,4 @@ coffee
 cheese
 dog treats
 shampoo
+seltzer
